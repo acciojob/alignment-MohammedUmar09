@@ -6,12 +6,14 @@ h2{
 	width: 100%;
 	padding: 1px;
 	border: 1px solid black;
+	border-spacing: 1px;
 	margin-bottom:20px;
 	
 }
 #table-1 td, #table-2 td{
 	border: 1px solid black;
-	padding: 10px;
+	padding: 1px;
+	border-spacing: 1px;
 }
 #t31 td{
 	background-color: green;
